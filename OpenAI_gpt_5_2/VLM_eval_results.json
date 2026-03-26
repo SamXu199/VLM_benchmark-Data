@@ -1,0 +1,3015 @@
+{
+  "results": [
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6faaf679",
+      "geomconf_index_from_xyz": 30,
+      "geomconf_index_extracted": 30,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_505a935a",
+      "geomconf_index_from_xyz": 85,
+      "geomconf_index_extracted": 85,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_cbbb5a77",
+      "geomconf_index_from_xyz": 186,
+      "geomconf_index_extracted": 186,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_57801ac2",
+      "geomconf_index_from_xyz": 196,
+      "geomconf_index_extracted": 196,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_01f49587",
+      "geomconf_index_from_xyz": 199,
+      "geomconf_index_extracted": 199,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_290d1d46",
+      "geomconf_index_from_xyz": 241,
+      "geomconf_index_extracted": 241,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c0f00683",
+      "geomconf_index_from_xyz": 257,
+      "geomconf_index_extracted": 257,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_ce5e252a",
+      "geomconf_index_from_xyz": 271,
+      "geomconf_index_extracted": 271,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_20728a09",
+      "geomconf_index_from_xyz": 317,
+      "geomconf_index_extracted": 317,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1a7b493b",
+      "geomconf_index_from_xyz": 327,
+      "geomconf_index_extracted": 327,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3c621340",
+      "geomconf_index_from_xyz": 360,
+      "geomconf_index_extracted": 360,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_341da243",
+      "geomconf_index_from_xyz": 417,
+      "geomconf_index_extracted": 417,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_03bc3da9",
+      "geomconf_index_from_xyz": 435,
+      "geomconf_index_extracted": 435,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f198e5a8",
+      "geomconf_index_from_xyz": 534,
+      "geomconf_index_extracted": 534,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_ef7af72b",
+      "geomconf_index_from_xyz": 578,
+      "geomconf_index_extracted": 578,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1a9ee1bb",
+      "geomconf_index_from_xyz": 619,
+      "geomconf_index_extracted": 619,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d52fd507",
+      "geomconf_index_from_xyz": 633,
+      "geomconf_index_extracted": 633,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_957c1275",
+      "geomconf_index_from_xyz": 661,
+      "geomconf_index_extracted": 661,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f20bc5a9",
+      "geomconf_index_from_xyz": 694,
+      "geomconf_index_extracted": 694,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_21be2b4b",
+      "geomconf_index_from_xyz": 732,
+      "geomconf_index_extracted": 732,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a101501c",
+      "geomconf_index_from_xyz": 737,
+      "geomconf_index_extracted": 737,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_165db823",
+      "geomconf_index_from_xyz": 738,
+      "geomconf_index_extracted": 738,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2ff03314",
+      "geomconf_index_from_xyz": 763,
+      "geomconf_index_extracted": 763,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a0ca31cb",
+      "geomconf_index_from_xyz": 773,
+      "geomconf_index_extracted": 773,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4d640909",
+      "geomconf_index_from_xyz": 788,
+      "geomconf_index_extracted": 788,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7308a4e9",
+      "geomconf_index_from_xyz": 823,
+      "geomconf_index_extracted": 823,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d64251df",
+      "geomconf_index_from_xyz": 848,
+      "geomconf_index_extracted": 848,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_21e252cc",
+      "geomconf_index_from_xyz": 921,
+      "geomconf_index_extracted": 921,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8f173cdb",
+      "geomconf_index_from_xyz": 929,
+      "geomconf_index_extracted": 929,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d1540f6b",
+      "geomconf_index_from_xyz": 1027,
+      "geomconf_index_extracted": 1027,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4c195fb1",
+      "geomconf_index_from_xyz": 1035,
+      "geomconf_index_extracted": 1035,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a2ad6ddc",
+      "geomconf_index_from_xyz": 1063,
+      "geomconf_index_extracted": 1063,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1e1a7662",
+      "geomconf_index_from_xyz": 1112,
+      "geomconf_index_extracted": 1112,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_dd296467",
+      "geomconf_index_from_xyz": 1202,
+      "geomconf_index_extracted": 1202,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6ebe5b16",
+      "geomconf_index_from_xyz": 1270,
+      "geomconf_index_extracted": 1270,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_20f31805",
+      "geomconf_index_from_xyz": 1285,
+      "geomconf_index_extracted": 1285,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_11079d60",
+      "geomconf_index_from_xyz": 1307,
+      "geomconf_index_extracted": 1307,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_331bb274",
+      "geomconf_index_from_xyz": 1334,
+      "geomconf_index_extracted": 1334,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_aa877f55",
+      "geomconf_index_from_xyz": 1357,
+      "geomconf_index_extracted": 1357,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_84683600",
+      "geomconf_index_from_xyz": 1380,
+      "geomconf_index_extracted": 1380,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e1c6f347",
+      "geomconf_index_from_xyz": 1399,
+      "geomconf_index_extracted": 1399,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fc6b5425",
+      "geomconf_index_from_xyz": 1423,
+      "geomconf_index_extracted": 1423,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d67c89c8",
+      "geomconf_index_from_xyz": 1449,
+      "geomconf_index_extracted": 1449,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4a95977b",
+      "geomconf_index_from_xyz": 1472,
+      "geomconf_index_extracted": 1472,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_9b4b9554",
+      "geomconf_index_from_xyz": 1494,
+      "geomconf_index_extracted": 1494,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_42a13350",
+      "geomconf_index_from_xyz": 1496,
+      "geomconf_index_extracted": 1496,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4c086cff",
+      "geomconf_index_from_xyz": 1590,
+      "geomconf_index_extracted": 1590,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_439456fb",
+      "geomconf_index_from_xyz": 1603,
+      "geomconf_index_extracted": 1603,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_ce18983a",
+      "geomconf_index_from_xyz": 1647,
+      "geomconf_index_extracted": 1647,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0a69ccc7",
+      "geomconf_index_from_xyz": 1755,
+      "geomconf_index_extracted": 1755,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_05b63ddb",
+      "geomconf_index_from_xyz": 1798,
+      "geomconf_index_extracted": 1798,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_566759d4",
+      "geomconf_index_from_xyz": 1800,
+      "geomconf_index_extracted": 1800,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8c247dbf",
+      "geomconf_index_from_xyz": 1837,
+      "geomconf_index_extracted": 1837,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_75acf7a4",
+      "geomconf_index_from_xyz": 1861,
+      "geomconf_index_extracted": 1861,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_174b66b6",
+      "geomconf_index_from_xyz": 1914,
+      "geomconf_index_extracted": 1914,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c79c579a",
+      "geomconf_index_from_xyz": 1940,
+      "geomconf_index_extracted": 1940,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6472ec03",
+      "geomconf_index_from_xyz": 1944,
+      "geomconf_index_extracted": 1944,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_917f9c8a",
+      "geomconf_index_from_xyz": 1966,
+      "geomconf_index_extracted": 1966,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_44997c1b",
+      "geomconf_index_from_xyz": 2129,
+      "geomconf_index_extracted": 2129,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2ce43cae",
+      "geomconf_index_from_xyz": 2154,
+      "geomconf_index_extracted": 2154,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_915aa530",
+      "geomconf_index_from_xyz": 2159,
+      "geomconf_index_extracted": 2159,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0fd83211",
+      "geomconf_index_from_xyz": 2181,
+      "geomconf_index_extracted": 2181,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_216e17e4",
+      "geomconf_index_from_xyz": 2324,
+      "geomconf_index_extracted": 2324,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_cb85e7fe",
+      "geomconf_index_from_xyz": 2358,
+      "geomconf_index_extracted": 2358,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_55d72ce6",
+      "geomconf_index_from_xyz": 2364,
+      "geomconf_index_extracted": 2364,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a4fc871d",
+      "geomconf_index_from_xyz": 2368,
+      "geomconf_index_extracted": 2368,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7f2cd3f9",
+      "geomconf_index_from_xyz": 2371,
+      "geomconf_index_extracted": 2371,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_75892015",
+      "geomconf_index_from_xyz": 2434,
+      "geomconf_index_extracted": 2434,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_dbbfcd99",
+      "geomconf_index_from_xyz": 2473,
+      "geomconf_index_extracted": 2473,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_293fb4ed",
+      "geomconf_index_from_xyz": 2492,
+      "geomconf_index_extracted": 2492,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d49dfb7d",
+      "geomconf_index_from_xyz": 2581,
+      "geomconf_index_extracted": 2581,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3d77fab8",
+      "geomconf_index_from_xyz": 2594,
+      "geomconf_index_extracted": 2594,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_b725a383",
+      "geomconf_index_from_xyz": 2624,
+      "geomconf_index_extracted": 2624,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_af97f988",
+      "geomconf_index_from_xyz": 2631,
+      "geomconf_index_extracted": 2631,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_dda9ce1d",
+      "geomconf_index_from_xyz": 2683,
+      "geomconf_index_extracted": 2683,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7f5c3e33",
+      "geomconf_index_from_xyz": 2730,
+      "geomconf_index_extracted": 2730,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_950f32fd",
+      "geomconf_index_from_xyz": 2752,
+      "geomconf_index_extracted": 2752,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_9da9985f",
+      "geomconf_index_from_xyz": 2940,
+      "geomconf_index_extracted": 2940,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2ef824e1",
+      "geomconf_index_from_xyz": 2946,
+      "geomconf_index_extracted": 2946,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_df615800",
+      "geomconf_index_from_xyz": 2977,
+      "geomconf_index_extracted": 2977,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a3444bef",
+      "geomconf_index_from_xyz": 3008,
+      "geomconf_index_extracted": 3008,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3ad9dff9",
+      "geomconf_index_from_xyz": 3081,
+      "geomconf_index_extracted": 3081,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7eb1ffb7",
+      "geomconf_index_from_xyz": 3136,
+      "geomconf_index_extracted": 3136,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_66ceb9c5",
+      "geomconf_index_from_xyz": 3213,
+      "geomconf_index_extracted": 3213,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_19d280a0",
+      "geomconf_index_from_xyz": 3222,
+      "geomconf_index_extracted": 3222,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_ae34d86d",
+      "geomconf_index_from_xyz": 3247,
+      "geomconf_index_extracted": 3247,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_15431f4f",
+      "geomconf_index_from_xyz": 3304,
+      "geomconf_index_extracted": 3304,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_32128499",
+      "geomconf_index_from_xyz": 3321,
+      "geomconf_index_extracted": 3321,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e758ca9c",
+      "geomconf_index_from_xyz": 3401,
+      "geomconf_index_extracted": 3401,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e3e66ed7",
+      "geomconf_index_from_xyz": 3426,
+      "geomconf_index_extracted": 3426,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8b076e37",
+      "geomconf_index_from_xyz": 3447,
+      "geomconf_index_extracted": 3447,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_465d0491",
+      "geomconf_index_from_xyz": 3458,
+      "geomconf_index_extracted": 3458,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_eb1896fd",
+      "geomconf_index_from_xyz": 3472,
+      "geomconf_index_extracted": 3472,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8d57c7b7",
+      "geomconf_index_from_xyz": 3551,
+      "geomconf_index_extracted": 3551,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a5f38555",
+      "geomconf_index_from_xyz": 3584,
+      "geomconf_index_extracted": 3584,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6314b579",
+      "geomconf_index_from_xyz": 3610,
+      "geomconf_index_extracted": 3610,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_152dd2e5",
+      "geomconf_index_from_xyz": 3649,
+      "geomconf_index_extracted": 3649,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c1c2bc21",
+      "geomconf_index_from_xyz": 3687,
+      "geomconf_index_extracted": 3687,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_265f749e",
+      "geomconf_index_from_xyz": 3765,
+      "geomconf_index_extracted": 3765,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0b56ea51",
+      "geomconf_index_from_xyz": 3792,
+      "geomconf_index_extracted": 3792,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a58c956d",
+      "geomconf_index_from_xyz": 3857,
+      "geomconf_index_extracted": 3857,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e87fd158",
+      "geomconf_index_from_xyz": 3873,
+      "geomconf_index_extracted": 3873,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_88fb29ad",
+      "geomconf_index_from_xyz": 3885,
+      "geomconf_index_extracted": 3885,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_712107e8",
+      "geomconf_index_from_xyz": 3898,
+      "geomconf_index_extracted": 3898,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8e9c2ae6",
+      "geomconf_index_from_xyz": 3915,
+      "geomconf_index_extracted": 3915,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_01f6ae10",
+      "geomconf_index_from_xyz": 3922,
+      "geomconf_index_extracted": 3922,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5a58fc33",
+      "geomconf_index_from_xyz": 3929,
+      "geomconf_index_extracted": 3929,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d3c167c1",
+      "geomconf_index_from_xyz": 3960,
+      "geomconf_index_extracted": 3960,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_48ce66c9",
+      "geomconf_index_from_xyz": 3963,
+      "geomconf_index_extracted": 3963,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_edff47c6",
+      "geomconf_index_from_xyz": 4049,
+      "geomconf_index_extracted": 4049,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_42225abc",
+      "geomconf_index_from_xyz": 4056,
+      "geomconf_index_extracted": 4056,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0f9e01ff",
+      "geomconf_index_from_xyz": 4094,
+      "geomconf_index_extracted": 4094,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_06fa1249",
+      "geomconf_index_from_xyz": 4132,
+      "geomconf_index_extracted": 4132,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_327b6794",
+      "geomconf_index_from_xyz": 4188,
+      "geomconf_index_extracted": 4188,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a7927aba",
+      "geomconf_index_from_xyz": 4209,
+      "geomconf_index_extracted": 4209,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_aac4927e",
+      "geomconf_index_from_xyz": 4230,
+      "geomconf_index_extracted": 4230,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3b3e7be2",
+      "geomconf_index_from_xyz": 4239,
+      "geomconf_index_extracted": 4239,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d270de92",
+      "geomconf_index_from_xyz": 4243,
+      "geomconf_index_extracted": 4243,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_737bcad8",
+      "geomconf_index_from_xyz": 4308,
+      "geomconf_index_extracted": 4308,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4adc64b5",
+      "geomconf_index_from_xyz": 4311,
+      "geomconf_index_extracted": 4311,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_24e425af",
+      "geomconf_index_from_xyz": 4326,
+      "geomconf_index_extracted": 4326,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5ab5e18d",
+      "geomconf_index_from_xyz": 4340,
+      "geomconf_index_extracted": 4340,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3f10a8bf",
+      "geomconf_index_from_xyz": 4348,
+      "geomconf_index_extracted": 4348,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c5dff575",
+      "geomconf_index_from_xyz": 4409,
+      "geomconf_index_extracted": 4409,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_040e4c3b",
+      "geomconf_index_from_xyz": 4422,
+      "geomconf_index_extracted": 4422,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_bfb8fe25",
+      "geomconf_index_from_xyz": 4519,
+      "geomconf_index_extracted": 4519,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fdf9556d",
+      "geomconf_index_from_xyz": 4552,
+      "geomconf_index_extracted": 4552,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d682ebeb",
+      "geomconf_index_from_xyz": 4577,
+      "geomconf_index_extracted": 4577,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f5071122",
+      "geomconf_index_from_xyz": 4597,
+      "geomconf_index_extracted": 4597,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fb5c2500",
+      "geomconf_index_from_xyz": 4680,
+      "geomconf_index_extracted": 4680,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f396ca8d",
+      "geomconf_index_from_xyz": 4684,
+      "geomconf_index_extracted": 4684,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_20052113",
+      "geomconf_index_from_xyz": 4696,
+      "geomconf_index_extracted": 4696,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6d4d418b",
+      "geomconf_index_from_xyz": 4699,
+      "geomconf_index_extracted": 4699,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e365a79f",
+      "geomconf_index_from_xyz": 4747,
+      "geomconf_index_extracted": 4747,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_458dcab9",
+      "geomconf_index_from_xyz": 4760,
+      "geomconf_index_extracted": 4760,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1c57c1b7",
+      "geomconf_index_from_xyz": 4761,
+      "geomconf_index_extracted": 4761,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_55d31a7e",
+      "geomconf_index_from_xyz": 4766,
+      "geomconf_index_extracted": 4766,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_58894ccb",
+      "geomconf_index_from_xyz": 4823,
+      "geomconf_index_extracted": 4823,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_00b976c1",
+      "geomconf_index_from_xyz": 4846,
+      "geomconf_index_extracted": 4846,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7b563314",
+      "geomconf_index_from_xyz": 4863,
+      "geomconf_index_extracted": 4863,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a7416b52",
+      "geomconf_index_from_xyz": 4921,
+      "geomconf_index_extracted": 4921,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1570ef9f",
+      "geomconf_index_from_xyz": 5023,
+      "geomconf_index_extracted": 5023,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5f307d13",
+      "geomconf_index_from_xyz": 5056,
+      "geomconf_index_extracted": 5056,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_41f2f2be",
+      "geomconf_index_from_xyz": 5060,
+      "geomconf_index_extracted": 5060,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1dded422",
+      "geomconf_index_from_xyz": 5065,
+      "geomconf_index_extracted": 5065,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2628288c",
+      "geomconf_index_from_xyz": 5066,
+      "geomconf_index_extracted": 5066,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_06207c4e",
+      "geomconf_index_from_xyz": 5075,
+      "geomconf_index_extracted": 5075,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e06e07a5",
+      "geomconf_index_from_xyz": 5099,
+      "geomconf_index_extracted": 5099,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c3a3e13c",
+      "geomconf_index_from_xyz": 5148,
+      "geomconf_index_extracted": 5148,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_cd45703a",
+      "geomconf_index_from_xyz": 5163,
+      "geomconf_index_extracted": 5163,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0fe8adb5",
+      "geomconf_index_from_xyz": 5192,
+      "geomconf_index_extracted": 5192,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_481746f4",
+      "geomconf_index_from_xyz": 5286,
+      "geomconf_index_extracted": 5286,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_023b03c4",
+      "geomconf_index_from_xyz": 5290,
+      "geomconf_index_extracted": 5290,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_77845497",
+      "geomconf_index_from_xyz": 5299,
+      "geomconf_index_extracted": 5299,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3647c5b5",
+      "geomconf_index_from_xyz": 5391,
+      "geomconf_index_extracted": 5391,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5e319309",
+      "geomconf_index_from_xyz": 5429,
+      "geomconf_index_extracted": 5429,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f237ebdb",
+      "geomconf_index_from_xyz": 5431,
+      "geomconf_index_extracted": 5431,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0d70a623",
+      "geomconf_index_from_xyz": 5446,
+      "geomconf_index_extracted": 5446,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a479ec21",
+      "geomconf_index_from_xyz": 5493,
+      "geomconf_index_extracted": 5493,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_439dec61",
+      "geomconf_index_from_xyz": 5499,
+      "geomconf_index_extracted": 5499,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_929c95d3",
+      "geomconf_index_from_xyz": 5511,
+      "geomconf_index_extracted": 5511,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_80a1276c",
+      "geomconf_index_from_xyz": 5513,
+      "geomconf_index_extracted": 5513,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_cd1255b1",
+      "geomconf_index_from_xyz": 5514,
+      "geomconf_index_extracted": 5514,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a4e48436",
+      "geomconf_index_from_xyz": 5526,
+      "geomconf_index_extracted": 5526,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_9e85180d",
+      "geomconf_index_from_xyz": 5597,
+      "geomconf_index_extracted": 5597,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2594cfe7",
+      "geomconf_index_from_xyz": 5693,
+      "geomconf_index_extracted": 5693,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d3a791bf",
+      "geomconf_index_from_xyz": 5727,
+      "geomconf_index_extracted": 5727,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2a4fd36f",
+      "geomconf_index_from_xyz": 5731,
+      "geomconf_index_extracted": 5731,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c45e6caf",
+      "geomconf_index_from_xyz": 5733,
+      "geomconf_index_extracted": 5733,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_87468763",
+      "geomconf_index_from_xyz": 5783,
+      "geomconf_index_extracted": 5783,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fde34fa9",
+      "geomconf_index_from_xyz": 5795,
+      "geomconf_index_extracted": 5795,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_b275755b",
+      "geomconf_index_from_xyz": 5819,
+      "geomconf_index_extracted": 5819,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_39e9cc53",
+      "geomconf_index_from_xyz": 5826,
+      "geomconf_index_extracted": 5826,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_90c247cf",
+      "geomconf_index_from_xyz": 5834,
+      "geomconf_index_extracted": 5834,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5dfdbe3c",
+      "geomconf_index_from_xyz": 5837,
+      "geomconf_index_extracted": 5837,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_62e06e11",
+      "geomconf_index_from_xyz": 5859,
+      "geomconf_index_extracted": 5859,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4b7f5bc5",
+      "geomconf_index_from_xyz": 5871,
+      "geomconf_index_extracted": 5871,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7005648e",
+      "geomconf_index_from_xyz": 5880,
+      "geomconf_index_extracted": 5880,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_941a2203",
+      "geomconf_index_from_xyz": 5904,
+      "geomconf_index_extracted": 5904,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_9b97e4f9",
+      "geomconf_index_from_xyz": 5935,
+      "geomconf_index_extracted": 5935,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3e65672d",
+      "geomconf_index_from_xyz": 5976,
+      "geomconf_index_extracted": 5976,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_9a33ef50",
+      "geomconf_index_from_xyz": 6034,
+      "geomconf_index_extracted": 6034,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_112ae5ea",
+      "geomconf_index_from_xyz": 6138,
+      "geomconf_index_extracted": 6138,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fd1cae06",
+      "geomconf_index_from_xyz": 6147,
+      "geomconf_index_extracted": 6147,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f42a4b95",
+      "geomconf_index_from_xyz": 6166,
+      "geomconf_index_extracted": 6166,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1dc06cbe",
+      "geomconf_index_from_xyz": 6180,
+      "geomconf_index_extracted": 6180,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_eaa9045a",
+      "geomconf_index_from_xyz": 6182,
+      "geomconf_index_extracted": 6182,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_460cc8af",
+      "geomconf_index_from_xyz": 6203,
+      "geomconf_index_extracted": 6203,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d219da5e",
+      "geomconf_index_from_xyz": 6241,
+      "geomconf_index_extracted": 6241,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_ce69bf32",
+      "geomconf_index_from_xyz": 6250,
+      "geomconf_index_extracted": 6250,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2945ced2",
+      "geomconf_index_from_xyz": 6302,
+      "geomconf_index_extracted": 6302,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_279d5f45",
+      "geomconf_index_from_xyz": 6381,
+      "geomconf_index_extracted": 6381,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d954ab8c",
+      "geomconf_index_from_xyz": 6463,
+      "geomconf_index_extracted": 6463,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8a71fad6",
+      "geomconf_index_from_xyz": 6519,
+      "geomconf_index_extracted": 6519,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8804b656",
+      "geomconf_index_from_xyz": 6645,
+      "geomconf_index_extracted": 6645,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8f08b9df",
+      "geomconf_index_from_xyz": 6667,
+      "geomconf_index_extracted": 6667,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_b0baccd6",
+      "geomconf_index_from_xyz": 6740,
+      "geomconf_index_extracted": 6740,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f0765b94",
+      "geomconf_index_from_xyz": 6753,
+      "geomconf_index_extracted": 6753,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_14aea064",
+      "geomconf_index_from_xyz": 6766,
+      "geomconf_index_extracted": 6766,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a1e6f4d2",
+      "geomconf_index_from_xyz": 6780,
+      "geomconf_index_extracted": 6780,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1e2aecd8",
+      "geomconf_index_from_xyz": 6853,
+      "geomconf_index_extracted": 6853,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_114a31ca",
+      "geomconf_index_from_xyz": 6865,
+      "geomconf_index_extracted": 6865,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_646a206b",
+      "geomconf_index_from_xyz": 6874,
+      "geomconf_index_extracted": 6874,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4ea251de",
+      "geomconf_index_from_xyz": 6922,
+      "geomconf_index_extracted": 6922,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0f188eb7",
+      "geomconf_index_from_xyz": 6947,
+      "geomconf_index_extracted": 6947,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_50f1f4ec",
+      "geomconf_index_from_xyz": 6953,
+      "geomconf_index_extracted": 6953,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_b1d02a92",
+      "geomconf_index_from_xyz": 6957,
+      "geomconf_index_extracted": 6957,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_231d0695",
+      "geomconf_index_from_xyz": 7052,
+      "geomconf_index_extracted": 7052,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2f3e3c86",
+      "geomconf_index_from_xyz": 7127,
+      "geomconf_index_extracted": 7127,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3dff42dd",
+      "geomconf_index_from_xyz": 7168,
+      "geomconf_index_extracted": 7168,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2aa57c48",
+      "geomconf_index_from_xyz": 7174,
+      "geomconf_index_extracted": 7174,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2854b8c1",
+      "geomconf_index_from_xyz": 7244,
+      "geomconf_index_extracted": 7244,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_92caf776",
+      "geomconf_index_from_xyz": 7254,
+      "geomconf_index_extracted": 7254,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2e9ecdc9",
+      "geomconf_index_from_xyz": 7305,
+      "geomconf_index_extracted": 7305,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d2830afb",
+      "geomconf_index_from_xyz": 7306,
+      "geomconf_index_extracted": 7306,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_df5a09c1",
+      "geomconf_index_from_xyz": 7382,
+      "geomconf_index_extracted": 7382,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_da2c0644",
+      "geomconf_index_from_xyz": 7446,
+      "geomconf_index_extracted": 7446,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5427dc34",
+      "geomconf_index_from_xyz": 7448,
+      "geomconf_index_extracted": 7448,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_55a26c4d",
+      "geomconf_index_from_xyz": 7509,
+      "geomconf_index_extracted": 7509,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c5d45060",
+      "geomconf_index_from_xyz": 7511,
+      "geomconf_index_extracted": 7511,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e980e9cf",
+      "geomconf_index_from_xyz": 7529,
+      "geomconf_index_extracted": 7529,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_bf695367",
+      "geomconf_index_from_xyz": 7533,
+      "geomconf_index_extracted": 7533,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f652843f",
+      "geomconf_index_from_xyz": 7543,
+      "geomconf_index_extracted": 7543,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4775a397",
+      "geomconf_index_from_xyz": 7582,
+      "geomconf_index_extracted": 7582,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2f01a047",
+      "geomconf_index_from_xyz": 7611,
+      "geomconf_index_extracted": 7611,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1a58da79",
+      "geomconf_index_from_xyz": 7649,
+      "geomconf_index_extracted": 7649,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_ebdd9419",
+      "geomconf_index_from_xyz": 7663,
+      "geomconf_index_extracted": 7663,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1a9394c5",
+      "geomconf_index_from_xyz": 7691,
+      "geomconf_index_extracted": 7691,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2280eb52",
+      "geomconf_index_from_xyz": 7704,
+      "geomconf_index_extracted": 7704,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4ffb8ced",
+      "geomconf_index_from_xyz": 7726,
+      "geomconf_index_extracted": 7726,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c0467ed0",
+      "geomconf_index_from_xyz": 7890,
+      "geomconf_index_extracted": 7890,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f5474cb3",
+      "geomconf_index_from_xyz": 7989,
+      "geomconf_index_extracted": 7989,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_93239e53",
+      "geomconf_index_from_xyz": 8041,
+      "geomconf_index_extracted": 8041,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a985ee64",
+      "geomconf_index_from_xyz": 8048,
+      "geomconf_index_extracted": 8048,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c503b460",
+      "geomconf_index_from_xyz": 8110,
+      "geomconf_index_extracted": 8110,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_12ed04c5",
+      "geomconf_index_from_xyz": 8127,
+      "geomconf_index_extracted": 8127,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_66ae791a",
+      "geomconf_index_from_xyz": 8154,
+      "geomconf_index_extracted": 8154,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_219ec6d7",
+      "geomconf_index_from_xyz": 8216,
+      "geomconf_index_extracted": 8216,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6ee0fe6f",
+      "geomconf_index_from_xyz": 8222,
+      "geomconf_index_extracted": 8222,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d131af59",
+      "geomconf_index_from_xyz": 8238,
+      "geomconf_index_extracted": 8238,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_260cdc9f",
+      "geomconf_index_from_xyz": 8271,
+      "geomconf_index_extracted": 8271,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_cd37741a",
+      "geomconf_index_from_xyz": 8298,
+      "geomconf_index_extracted": 8298,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1cda21a0",
+      "geomconf_index_from_xyz": 8317,
+      "geomconf_index_extracted": 8317,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1c5f4487",
+      "geomconf_index_from_xyz": 8378,
+      "geomconf_index_extracted": 8378,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f470cab2",
+      "geomconf_index_from_xyz": 8385,
+      "geomconf_index_extracted": 8385,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fd1eec0a",
+      "geomconf_index_from_xyz": 8386,
+      "geomconf_index_extracted": 8386,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_55bd068f",
+      "geomconf_index_from_xyz": 8398,
+      "geomconf_index_extracted": 8398,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_5ffb9f8d",
+      "geomconf_index_from_xyz": 8419,
+      "geomconf_index_extracted": 8419,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_56442288",
+      "geomconf_index_from_xyz": 8420,
+      "geomconf_index_extracted": 8420,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f2ee2471",
+      "geomconf_index_from_xyz": 8441,
+      "geomconf_index_extracted": 8441,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f5644d70",
+      "geomconf_index_from_xyz": 8528,
+      "geomconf_index_extracted": 8528,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_93acf932",
+      "geomconf_index_from_xyz": 8544,
+      "geomconf_index_extracted": 8544,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d4fc2145",
+      "geomconf_index_from_xyz": 8573,
+      "geomconf_index_extracted": 8573,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_990ff4ad",
+      "geomconf_index_from_xyz": 8597,
+      "geomconf_index_extracted": 8597,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0a6dad7e",
+      "geomconf_index_from_xyz": 8617,
+      "geomconf_index_extracted": 8617,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a1a9d327",
+      "geomconf_index_from_xyz": 8618,
+      "geomconf_index_extracted": 8618,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_383fbfb0",
+      "geomconf_index_from_xyz": 8623,
+      "geomconf_index_extracted": 8623,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_90e592b8",
+      "geomconf_index_from_xyz": 8640,
+      "geomconf_index_extracted": 8640,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8bcb6e7c",
+      "geomconf_index_from_xyz": 8688,
+      "geomconf_index_extracted": 8688,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_0332634b",
+      "geomconf_index_from_xyz": 8706,
+      "geomconf_index_extracted": 8706,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_17eca675",
+      "geomconf_index_from_xyz": 8735,
+      "geomconf_index_extracted": 8735,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_3f6f0ced",
+      "geomconf_index_from_xyz": 8748,
+      "geomconf_index_extracted": 8748,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 33.33
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f622dbab",
+      "geomconf_index_from_xyz": 8830,
+      "geomconf_index_extracted": 8830,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_afd7ea42",
+      "geomconf_index_from_xyz": 8876,
+      "geomconf_index_extracted": 8876,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_08676a80",
+      "geomconf_index_from_xyz": 8889,
+      "geomconf_index_extracted": 8889,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_eb1cf637",
+      "geomconf_index_from_xyz": 8894,
+      "geomconf_index_extracted": 8894,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_28db7feb",
+      "geomconf_index_from_xyz": 8936,
+      "geomconf_index_extracted": 8936,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_be2b84e6",
+      "geomconf_index_from_xyz": 8963,
+      "geomconf_index_extracted": 8963,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_4b0e5e9a",
+      "geomconf_index_from_xyz": 8968,
+      "geomconf_index_extracted": 8968,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6202a397",
+      "geomconf_index_from_xyz": 8978,
+      "geomconf_index_extracted": 8978,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": false,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": false,
+      "score": 0.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_793d59b5",
+      "geomconf_index_from_xyz": 9022,
+      "geomconf_index_extracted": 9022,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_fec94f09",
+      "geomconf_index_from_xyz": 9023,
+      "geomconf_index_extracted": 9023,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1ec9674e",
+      "geomconf_index_from_xyz": 9025,
+      "geomconf_index_extracted": 9025,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_6d173fbf",
+      "geomconf_index_from_xyz": 9039,
+      "geomconf_index_extracted": 9039,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_2dc6e344",
+      "geomconf_index_from_xyz": 9070,
+      "geomconf_index_extracted": 9070,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c28d2f51",
+      "geomconf_index_from_xyz": 9072,
+      "geomconf_index_extracted": 9072,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7459b5d2",
+      "geomconf_index_from_xyz": 9078,
+      "geomconf_index_extracted": 9078,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_1adb2921",
+      "geomconf_index_from_xyz": 9146,
+      "geomconf_index_extracted": 9146,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c145f031",
+      "geomconf_index_from_xyz": 9155,
+      "geomconf_index_extracted": 9155,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_930b518f",
+      "geomconf_index_from_xyz": 9158,
+      "geomconf_index_extracted": 9158,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d1dfcaaa",
+      "geomconf_index_from_xyz": 9179,
+      "geomconf_index_extracted": 9179,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_f22a67b1",
+      "geomconf_index_from_xyz": 9243,
+      "geomconf_index_extracted": 9243,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e41498b7",
+      "geomconf_index_from_xyz": 9321,
+      "geomconf_index_extracted": 9321,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_21b31518",
+      "geomconf_index_from_xyz": 9325,
+      "geomconf_index_extracted": 9325,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_d94acc52",
+      "geomconf_index_from_xyz": 9379,
+      "geomconf_index_extracted": 9379,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_167eb0ce",
+      "geomconf_index_from_xyz": 9431,
+      "geomconf_index_extracted": 9431,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_104d737d",
+      "geomconf_index_from_xyz": 9448,
+      "geomconf_index_extracted": 9448,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_b12689f0",
+      "geomconf_index_from_xyz": 9452,
+      "geomconf_index_extracted": 9452,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e6b69896",
+      "geomconf_index_from_xyz": 9482,
+      "geomconf_index_extracted": 9482,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_26e3fa23",
+      "geomconf_index_from_xyz": 9520,
+      "geomconf_index_extracted": 9520,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_acde7bbc",
+      "geomconf_index_from_xyz": 9540,
+      "geomconf_index_extracted": 9540,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": false,
+      "compare_neighbor_symbols_ok": true,
+      "score": 66.67
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_8612430c",
+      "geomconf_index_from_xyz": 9570,
+      "geomconf_index_extracted": 9570,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_dd33c8bb",
+      "geomconf_index_from_xyz": 9610,
+      "geomconf_index_extracted": 9610,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_a9b53b41",
+      "geomconf_index_from_xyz": 9667,
+      "geomconf_index_extracted": 9667,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c38cd1f2",
+      "geomconf_index_from_xyz": 9758,
+      "geomconf_index_extracted": 9758,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_c2b7132e",
+      "geomconf_index_from_xyz": 9819,
+      "geomconf_index_extracted": 9819,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e22aba32",
+      "geomconf_index_from_xyz": 9870,
+      "geomconf_index_extracted": 9870,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_074eb2c4",
+      "geomconf_index_from_xyz": 9944,
+      "geomconf_index_extracted": 9944,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_7fe1f920",
+      "geomconf_index_from_xyz": 9955,
+      "geomconf_index_extracted": 9955,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    },
+    {
+      "folder": "VLMtest_gpt-5.2_iter1_e6e1c376",
+      "geomconf_index_from_xyz": 9986,
+      "geomconf_index_extracted": 9986,
+      "geomconf_index_match": true,
+      "compare_num_neighbors_ok": true,
+      "compare_neighbor_indices_ok": true,
+      "compare_neighbor_symbols_ok": true,
+      "score": 100.0
+    }
+  ],
+  "summary": {
+    "root_dir": "/h/400/skaxu/ElAgente/VLM_data",
+    "evaluated_records": 300,
+    "skipped_reasons": {
+      "skip_no_xyz": 0,
+      "skip_xyz_name_parse": 0,
+      "skip_no_csv_row": 0,
+      "skip_no_json": 0
+    },
+    "overall_success_rate_percent": 84.0
+  }
+}
